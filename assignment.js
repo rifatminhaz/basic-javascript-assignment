@@ -73,5 +73,5 @@ function tinyFriend(names){
     return miniName;
 
 }
-var miniFriend = tinyFriend(["Minhaz", "Rifat", "Shojib", "Asad", "Sakin", "Imran", "Tashrik", "Partho", "Khairul", "azzy" ]);
+var miniFriend = tinyFriend(["Minhaz", "Rifat", "Shojib", "Asad", "Sakin", "Imran", "Tashrik", "Partho", "Khairul"]);
 console.log(miniFriend);
